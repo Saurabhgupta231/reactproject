@@ -27,7 +27,7 @@ function App() {
 export default App;
 */
 import React from "react";
-// import Restaurant from "./Rcomponents/Basics/Restaurant";
+import Restaurant from "./Rcomponents/Basics/Restaurant";
 // import UseState from "./Hooks/useState";
 // import UseEffect from "./Hooks/useEffect";
 // import UseReducer from "./Hooks/useReducer";
@@ -37,7 +37,7 @@ import Temp from "./Weather/temp";
 const App = () => {
   return (
     <div>
-      {/* <Restaurant /> */}
+      <Restaurant />
       {/* <UseState /> */}
       {/* <UseEffect /> */}
       {/* <UseReducer /> */}
